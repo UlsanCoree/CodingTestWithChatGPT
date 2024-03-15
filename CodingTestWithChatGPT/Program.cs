@@ -8,6 +8,7 @@
             int max = GetMaxNum();
 
             Console.WriteLine($"최대값은 : {max}");
+            Console.WriteLine("github modified");
         }
 
         public static int GetMaxNum()
