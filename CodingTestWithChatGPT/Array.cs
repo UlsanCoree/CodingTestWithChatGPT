@@ -1,6 +1,8 @@
 ﻿namespace CodingTestWithChatGPT
 {
-    internal class Program
+    //24.3.15
+
+    internal class Array
     {
         public static int[] numbers = { 3, 9, 4, 1, 10, 50, 20, 2 };
         static void Main(string[] args)
